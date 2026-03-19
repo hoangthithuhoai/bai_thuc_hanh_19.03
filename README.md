@@ -5,6 +5,6 @@
 - **Mã sinh viên:** 23810310297
 
 ##  Kết quả chạy chương trình
-![alt text](demo1-1.jpg)
-![alt text](demo2-1.jpg)
-![alt text](demo3-1.jpg)
+<img src="./demo1-1.jpg" alt="Demo App1" width="300">
+<img src="./demo2-1.jpg" alt="Demo App1" width="300">
+<img src="./demo3-1.jpg" alt="Demo App1" width="300">
